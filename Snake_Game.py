@@ -1,4 +1,4 @@
-#Creatign a simple snake game using Phyton 3 (Beginner Level
+#Creatign a simple snake game using Phyton 3 (Beginner Level)
 # Created by: Akeme Moore
 
 import turtle
